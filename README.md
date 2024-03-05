@@ -14,7 +14,6 @@ remove your SD card, put it back in the alpha max game board, power it on and yo
 
 On future versions I will work on automating more of the process so it will require less user input.
 
-The Alpha Max game board is available to order from the manufacturer or if you are in the USA you can order from my website: mrmattsarcade.com/shop
 
 Feel free to fork this repository and improve it yourself, report issues, or do pull requests.
 
